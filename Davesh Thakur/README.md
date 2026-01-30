@@ -2,7 +2,7 @@
 
 # Radancy – Web Developer Coding Exercise
 
-This repository contains my solution for the **Radancy Web Developer / UI Developer coding exercise**.
+This repository contains my solution for the **Radancy UI Developer coding exercise**.
 
 The objective of this assignment was to convert the provided desktop design into a responsive web page using **HTML5, CSS3, and SASS**, while strictly following the given constraints.
 
